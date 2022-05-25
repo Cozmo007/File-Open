@@ -3,11 +3,9 @@ C++ header file for open files
 
 USE:
 
-<code>
-#include "fileopen.hpp"
+<code>#include "fileopen.hpp"</code>
 
-write("file_name.txt", "text");
+<code>write("file_name.txt", "text");</code>
 
-read("file_name.txt");
-</code>
+<code>read("file_name.txt");</code>
 
